@@ -1,4 +1,4 @@
-# Cordova Plugin for android share browser url with in the app.(Content Handler Plugin)
+# Cordova android plugin for share browser web url with in the app.(Content Handler Plugin)
  
 ## Master branch:
  
