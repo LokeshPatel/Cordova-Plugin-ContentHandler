@@ -1,0 +1,19 @@
+{
+  "name": "Cordova Plugin ContentHandle",
+  "version": "1.0.0-dev",
+  "description": "Cordova Plugin ContentHandle",
+  "cordova": {
+    "id": "Cordova-Plugin-ContentHandle",
+    "platforms": ["android"]
+    },
+    "repository": {
+      "type": "",
+      "url": ""
+      },
+      "keywords": [
+      "cordova",
+      "Cordova Content Handle"
+      ],
+      "author": "Lokesh Patel",
+      "license": "Apache 2.0"
+}
